@@ -5,7 +5,7 @@ metadata:
   title: Summary
   description: Summary
   ms.date: 06/07/2021
-  author: Microsoft
-  ms.author: mec-sa
+  author: mec-sa
+  ms.author: KristoferKelastro
 durationInMinutes: 1
 content: "[!include[](includes/summary.md)]"
