@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kirs-vi-vn.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 06/07/2021
+  author: Microsoft
+  ms.author: mec-sa
+durationInMinutes: 1
+content: "[!include[](includes/summary.md)]"

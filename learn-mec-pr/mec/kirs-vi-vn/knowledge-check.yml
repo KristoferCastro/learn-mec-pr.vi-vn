@@ -1,0 +1,208 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kirs-vi-vn.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 06/07/2021
+  author: Microsoft
+  ms.author: Microsoft
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: "Bài 1:  Câu nào sau đây mô tả đúng nhất về việc kiến tạo kiến thức?"
+      choices:
+        - content: Hoạt động kiến tạo kiến thức yêu cầu học sinh tạo ra ý tưởng mới và
+            tiếp thu những kiến thức này
+          isCorrect: true
+          explanation: Hoạt động kiến tạo kiến thức yêu cầu học sinh tạo ra ý tưởng mới và
+            tiếp thu những kiến thức này
+        - content: Hoạt động kiến tạo kiến thức yêu cầu học sinh sử dụng thông tin theo
+            những cách mới
+          isCorrect: false
+          explanation: Hoạt động kiến tạo kiến thức yêu cầu học sinh sử dụng thông tin
+            theo những cách mới
+        - content: Hoạt động kiến tạo kiến thức liên quan đến việc sử dụng tài nguyên
+            thông tin khác nhau để kiến tạo kiến thức
+          isCorrect: false
+          explanation: Hoạt động kiến tạo kiến thức liên quan đến việc sử dụng tài nguyên
+            thông tin khác nhau để kiến tạo kiến thức
+        - content: Hoạt động kiến tạo kiến thức liên quan đến việc các học sinh làm việc
+            cùng nhau để thể hiện những điều họ đã học được theo cách mới.
+          isCorrect: false
+          explanation: "123"
+        - content: Hoạt động kiến tạo kiến thức liên quan đến việc học sinh thể hiện những
+            điều họ đã học được theo cách mới.
+          isCorrect: false
+          explanation: "123"
+    - content: "Bài 2: Hãy xem xét hoạt động sau: các học sinh phân tích dữ liệu về
+        khí hậu tại địa phương của họ và sau đó phân tích dữ liệu khí hậu của
+        một địa phương khác mà họ chon. Các học sinh có cần phải áp dụng kiến
+        thức của họ hay không?"
+      choices:
+        - content: Có, vì các học sinh đang phân tích dữ liệu từ nhiều nguồn khác nhau.
+          isCorrect: false
+          explanation: "123"
+        - content: Có, vì các học sinh đang áp dụng kiến thức cho một tình huống mới.
+          isCorrect: false
+          explanation: "123"
+        - content: Không, vì các học sinh không áp dụng kiến thức thu được  từ việc thực
+            hiện phân tích dữ liệu khí hậu cho một hoạt động mới; họ chỉ lặp lại
+            hoạt động này với các số liệu khác nhau.
+          isCorrect: true
+          explanation: "123"
+        - content: Không, vì các học sinh không tự thực hiện việc thu thập dữ liệu
+          isCorrect: false
+          explanation: "123"
+        - content: Có, vì các học sinh sử dụng dữ liệu từ nhiều nguồn.
+          isCorrect: false
+          explanation: "123"
+        - content: Có, vì họ có thể tự chọn điểm phân tích thứ 2.
+          isCorrect: false
+          explanation: "123"
+    - content: "Bài  4: Trong một hoạt động mà yêu cầu chính là kiến tạo kiến thức
+        nhưng hoạt động học tập này không đòi hỏi học sinh phải áp dụng kiến
+        thức của họ trong một bối cảnh mới, bạn sẽ dùng thang điểm nào của công
+        cụ đánh giá rubric về kiến tạo kiến thức học tập trong thế kỷ 21  cho
+        hoạt động này :"
+      choices:
+        - content: "1"
+          isCorrect: false
+          explanation: "123"
+        - content: "2"
+          isCorrect: false
+          explanation: "123"
+        - content: "3"
+          isCorrect: true
+          explanation: "123"
+        - content: "4"
+          isCorrect: false
+          explanation: "123"
+    - content: "Bài 5: Hãy nghĩ về ví dụ nêu trong khóa học được thực hiện bởi Diane
+        và Daniel đến từ Toronto, Canada. Trong ví dụ này, các học sinh sử dụng
+        những công nghệ khác nhau để hỗ trợ công việc của họ. Chúng gồm:"
+      choices:
+        - content: Sway để kiến tạo kiến thức và trang web để thể hiện kiến thức này cho
+            công chúng
+          isCorrect: false
+          explanation: "123"
+        - content: Skype để phỏng vấn các chuyên gia và Powerpoint để thể hiện sự tiếp thu
+            của họ về chủ đề.
+          isCorrect: true
+          explanation: "123"
+        - content: Blog để nghiên cứu các ví dụ về thơ và Twitter để thảo luận về các ưu
+            điểm của các thể loại
+          isCorrect: false
+          explanation: "123"
+        - content: MovieMaker để chỉnh sửa các ví dụ về thơ và Skype để phỏng vấn các
+            chuyên gia
+          isCorrect: false
+          explanation: "123"
+        - content: Sử dụng trang blog để đăng tải các bài thơ và Skype để liên kết với nhà
+            thơ ở Trung Đông
+          isCorrect: false
+          explanation: "123"
+    - content: "Bài 2: Các hoạt động nào sau đây được coi là kiến tạo kiến thức?"
+      choices:
+        - content: Các học sinh viết một bài luận mô tả về một tội ác mà một nhân vật đã
+            gây ra.
+          isCorrect: false
+          explanation: "123"
+        - content: Các học sinh sử dụng chi tiết trong một câu chuyện để  nêu bật sự kịch
+            tính của một tội ác đã gây ra
+          isCorrect: false
+          explanation: "123"
+        - content: Students use Bing to search the Internet for information about local
+            activities to help the environment and give a presentation to
+            describe what they found
+          isCorrect: false
+          explanation: "123"
+        - content: Students write a paper that compares and contrasts information from
+            multiple sources
+          isCorrect: true
+          explanation: "123"
+        - content: Students write a paper that describes information they found online or
+            in books
+          isCorrect: false
+          explanation: "123"
+    - content: "Bài 6: Một hoạt động học tập được cho thang điểm 3 về mặt kiến tạo
+        kiến thức, điều này cho biết trong hoạt động học tập này:"
+      choices:
+        - content: Yêu cầu chính của hoạt động học tập là việc kiến tạo kiến thức và hoạt
+            động học tập không yêu cầu học sinh áp dụng kiến thức của họ trong
+            một bối cảnh mới
+          isCorrect: false
+          explanation: "123"
+        - content: Yêu cầu chính của hoạt động học tập là việc kiến tạo kiến thức nhưng
+            hoạt động học tập không yêu cầu học sinh áp dụng kiến thức của họ
+            trong một bối cảnh mới
+          isCorrect: true
+          explanation: "123"
+        - content: Hoạt động học tập yêu cầu học sinh kiến tạo kiến thức bằng cách thấu
+            hiểu, phân tích, tổng hợp hoặc đánh giá thông tin
+          isCorrect: false
+          explanation: "123"
+        - content: Yêu cầu chính của hoạt động học tập là việc kiến tạo kiến thức nhưng
+            hoạt động học tập  yêu cầu học sinh áp dụng kiến thức của họ trong
+            một bối cảnh mới
+          isCorrect: false
+          explanation: "123"
+        - content: Hoạt động học tập yêu cầu học sinh kiến tạo kiến thức bằng cách thấu
+            hiểu, phân tích, tổng hợp hoặc đánh giá thông tin nhưng yêu cầu
+            chính của hoạt động không phải là kiến tạo kiến thức
+          isCorrect: false
+          explanation: "123"
+    - content: Bài 5:Trong hoạt động học tập nêu trong khóa học này, bằng chứng nào
+        cho thấy công việc này liên quan đến nhiều lĩnh vực khác nhau?
+      choices:
+        - content: Các sinh viên đã phân tích và đánh giá một số bài thơ về phong trào
+            kháng chiến, trước khi tổng hợp các tiêu chí thành công của một bài
+            thơ kháng chiến thành công
+          isCorrect: false
+          explanation: "123"
+        - content: Các học sinh phải áp dụng kiến thức họ đã học để viết và trình diễn một
+            bài thơ về phong trào kháng chiến
+          isCorrect: false
+          explanation: "123"
+        - content: Các học sinh phải đọc hiểu, phân tích, tổng hợp hoặc đánh giá để quyết
+            định xem họ sẽ sử dụng kiến thức họ đã học như thế nào trong một ngữ
+            cảnh mới.
+          isCorrect: false
+          explanation: "123"
+        - content: Chất lượng của của công tác nghiên cứu cũng như chất lượng  sự tư duy
+            của các học sinh về phong trào kháng chiến được đánh giá và là một
+            phần của công tác đánh giá cuối  về bài thơ nói mà các học sinh thực
+            hiện.
+          isCorrect: true
+          explanation: "123"
+        - content: Các sinh viên đã áp dụng những gì họ đã học được tới các ví dụ về thơ
+            kháng chiến từ những sự kiện lịch sử quan trọng
+          isCorrect: false
+          explanation: "123"
+    - content: "Bài 2: Hãy xem xét hoạt động sau: các học sinh thiết kế và thực hiện
+        một quy trình kiểm thử chất lượng nước máy tại trường học của họ. Họ
+        kiểm tra nước và tiếp tục thiết kế lại quy trình cho đến khi họ thu được
+        dữ liệu chính xác nhất.  Các học sinh có cần phải áp dụng kiến thức của
+        họ hay không"
+      choices:
+        - content: Có, vì các học sinh đang làm việc cùng nhau và chia sẻ trách nhiệm
+            chung
+          isCorrect: false
+          explanation: "123"
+        - content: Có, vì các học sinh đang áp dụng kiến thức của họ từ những lần thử
+            nghiệm trước để tinh chỉnh quy trình
+          isCorrect: false
+          explanation: "123"
+        - content: Có, vì các học sinh đang làm việc cùng nhau để thiết kế lại quy trình
+            kiểm tra
+          isCorrect: false
+          explanation: "123"
+        - content: Không, vì các học sinh chỉ đang sử dụng mẫu nước từ một địa điểm duy
+            nhất
+          isCorrect: false
+          explanation: "123"
+        - content: Không, vì các học sinh đang không mở rộng kiến thức của họ sang loại
+            ứng dụng khác
+          isCorrect: true
+          explanation: "123"

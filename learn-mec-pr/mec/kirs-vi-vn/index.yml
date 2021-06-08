@@ -1,0 +1,33 @@
+### YamlMime:Module
+uid: learn.mec.kirs-vi-vn
+title: "Thiết kế học tập trong thế kỷ 21: Khóa 4 -Xây dựng kiến thức"
+hidden: true
+metadata:
+  title: "Thiết kế học tập trong thế kỷ 21: Khóa 4 -xây dựng kiến thức"
+  ms.date: 06/07/2021
+  author: Microsoft
+  ms.author: mec-sa
+  ms.topic: interactive-tutorial
+abstract: ""
+summary: >+
+  Khóa học này giới thiệu  về các phương diện của việc xây dựng kiến thức và
+  hướng dẫn các học sinh cách phát triển và tích lũy kiến thức sâu rộng để họ có
+  thể truyền lại kiến thức và ứng dụng trong thực tế. Để hoàn thành khóa học
+  này, bạn cần vượt qua bài trắc nghiệm bằng cách trả lời đúng ít nhất 80% tổng
+  số câu hỏi trong bài trắc nghiệm.
+
+prerequisites: |
+  None
+iconUrl: /learn/achievements/kirs-vi-vn.png
+levels:
+  - beginner
+products: []
+roles:
+  - student
+units:
+  - learn.mec.kirs-vi-vn.introduction
+  - learn.mec.kirs-vi-vn.kris-module134
+  - learn.mec.kirs-vi-vn.knowledge-check
+  - learn.mec.kirs-vi-vn.summary
+badge:
+  uid: learn.mec.kirs-vi-vn.badge

@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kirs-vi-vn.kris-module134
+title: Module 1
+metadata:
+  title: Module 1
+  description: Module 1
+  ms.date: 06/07/2021
+  author: Microsoft
+  ms.author: mec-sa
+durationInMinutes: 1
+content: "[!include[](includes/kris-module134.md)]"
