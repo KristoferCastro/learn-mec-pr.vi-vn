@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-20360vi-vn.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 06/11/2021
+  author: mec-sa
+  ms.author: mec-sa
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: Tôi sẽ tạo một thách thức sáng tạo trong lớp học của tôi!
+      choices:
+        - content: Tất nhiên rồi
+          isCorrect: true
+          explanation: "1"
+        - content: Tất nhiên không
+          isCorrect: false
+          explanation: "1"
+    - content: Hơn 50% công việc hiện nay đòi hỏi một số kỹ năng công nghệ, tỷ lệ này
+        sẽ tăng lên 77% trong vòng chưa đầy một thập kỷ.
+      choices:
+        - content: Đúng
+          isCorrect: true
+          explanation: "1"
+        - content: Sai
+          isCorrect: false
+          explanation: "1"
+    - content: "Lý do trẻ em nên học lập trình: (chọn tất cả đps án phù hợp)"
+      choices:
+        - content: Lập trình cải thiện kết quả học tập
+          isCorrect: true
+          explanation: "1"
+        - content: Lập trình phát triển kỹ năng mềm
+          isCorrect: false
+          explanation: "1"
+        - content: Lập trình cung cấp một hành trang đến thành công
+          isCorrect: false
+          explanation: "1"
+    - content: Các thách thức sáng tạo có thể nuôi dưỡng các kỹ năng để chuẩn bị cho
+        tương lai đối với các học sinh
+      choices:
+        - content: Đúng
+          isCorrect: true
+          explanation: "1"
+        - content: Sai
+          isCorrect: false
+          explanation: "1"
+    - content: Bạn có thể tìm thấy các dự án của các cuộc thi sáng tạo tại makecode.com
+      choices:
+        - content: Đúng
+          isCorrect: true
+          explanation: "1"
+        - content: Sai
+          isCorrect: false
+          explanation: "1"

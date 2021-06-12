@@ -1,0 +1,32 @@
+### YamlMime:Module
+uid: learn.mec.kris-20360vi-vn
+title: Làm thế nào để áp dụng Tư duy Máy tính trong giảng dạy với các Cuộc Thi
+  Sáng tạo - Maker Challenges
+hidden: true
+metadata:
+  title: Làm thế nào để áp dụng tư duy máy tính trong giảng dạy với các cuộc thi
+    sáng tạo - maker challenges
+  ms.date: 06/11/2021
+  author: mec-sa
+  ms.author: Microsoft
+  ms.topic: interactive-tutorial
+  description: Hãy học cách tổ chức một Cuộc thi Sáng tạo Maker Challenge với khóa
+    học này và tích 500 điểm!
+abstract: ""
+summary: Hãy học cách tổ chức một Cuộc thi Sáng tạo Maker Challenge với khóa học
+  này và tích 500 điểm!
+prerequisites: |
+  None
+iconUrl: /learn/achievements/kris-20360vi-vn.png
+levels:
+  - intermediate
+products: []
+roles:
+  - student
+units:
+  - learn.mec.kris-20360vi-vn.introduction
+  - learn.mec.kris-20360vi-vn.unit4
+  - learn.mec.kris-20360vi-vn.knowledge-check
+  - learn.mec.kris-20360vi-vn.summary
+badge:
+  uid: learn.mec.kris-20360vi-vn.badge

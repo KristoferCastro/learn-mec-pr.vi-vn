@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-20360vi-vn.unit4
+title: Tổ chức một Cuộc thi Maker Champion!
+metadata:
+  title: Tổ chức một cuộc thi maker champion!
+  description: Tổ chức một Cuộc thi Maker Champion!
+  ms.date: 06/11/2021
+  author: mec-sa
+  ms.author: Microsoft
+durationInMinutes: 1
+content: "[!include[](includes/unit4.md)]"
